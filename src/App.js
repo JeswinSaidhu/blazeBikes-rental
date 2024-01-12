@@ -1,8 +1,8 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
-import { Navbar } from "./components";
-import { About, Contact, Home, Models, Team, Testimonals } from "./Pages";
+import { Navbar } from "./components/index";
+import { About, Contact, Home, Models, Team, Testimonals } from "./Pages/index";
 
 const App = () => {
   return (
