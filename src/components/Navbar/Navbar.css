@@ -80,12 +80,12 @@
   color: white;
   padding: 1.5rem 3rem;
   border-radius: 3px;
-  box-shadow: 0 10px 15px 0 rgba(67, 118, 108, 0.1);
+  box-shadow: 0 10px 15px 0 rgba(67, 118, 108, 0.35);
   transition: all 0.3s;
 }
 
 .navbar__buttons__register:hover {
-  box-shadow: 0 10px 15px 0 rgba(85, 150, 137, 0.1);
+  box-shadow: 0 10px 15px 0 rgba(85, 150, 137, 0.35);
   background-color: #559689;
 }
 

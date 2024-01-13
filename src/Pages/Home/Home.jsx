@@ -1,6 +1,17 @@
 import React from "react";
 import "./Home.css";
-import { Hero, BookBike, PlanTrip, PickBike } from "../../components/index";
+import {
+  Hero,
+  BookBike,
+  PlanTrip,
+  PickBike,
+  Banner,
+  ChooseUs,
+  Testimonals,
+  Faq,
+  Download,
+  Footer,
+} from "../../components/index";
 
 const Home = () => {
   return (
@@ -9,6 +20,12 @@ const Home = () => {
       <BookBike />
       <PlanTrip />
       <PickBike />
+      <Banner />
+      <ChooseUs />
+      <Testimonals />
+      <Faq />
+      <Download />
+      <Footer />
     </>
   );
 };

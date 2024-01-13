@@ -100,9 +100,9 @@
   background-color: #43766c;
   padding: 1.8rem 3rem;
   border-radius: 0.3rem;
-  box-shadow: 0 10px 15px 0 rgba(67, 118, 108, 0.15);
+  box-shadow: 0 10px 15px 0 rgba(67, 118, 108, 0.35);
   transition: all 0.3s;
-  border: 2px solid #43766c;
+  /* border: 2px solid #43766c; */
 }
 
 @media (max-width: 450px) {
@@ -112,7 +112,7 @@
 }
 
 .hero-content__text__btns__book-ride:hover {
-  box-shadow: 0 10px 15px 0 rgba(67, 118, 108, 0.1);
+  box-shadow: 0 10px 15px 0 rgba(67, 118, 108, 0.35);
   background-color: #559689;
 }
 
