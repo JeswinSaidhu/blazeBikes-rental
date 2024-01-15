@@ -24,10 +24,10 @@ const Footer = () => {
               <li>
                 <a
                   href="mailto: 
-                  blazebikesrental@gmail.com"
+                  blazebikesrental@bbrental.com"
                 >
                   <IconMail />
-                  &nbsp; blazebikesrental@gmail.com
+                  &nbsp; blazebikesrental@bbrental.com
                 </a>
               </li>
 
