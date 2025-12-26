@@ -23,7 +23,7 @@ To contact, email: jeswin.ambati@gmail.com
 
 ## Screenshots of the project
 
+![Hero](https://github.com/user-attachments/assets/413075de-49e2-485e-9282-dfd279dc728a)
 
-![Blaze-Bike-Rentals_homepage](https://github.com/JeswinSaidhu/blazeBikes-rental/assets/81647613/2570c383-61d5-405c-a6b6-11ad8178c9b3)
 
 ### Thank you! 🙏❤️
